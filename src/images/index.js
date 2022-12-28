@@ -1,0 +1,15 @@
+export const images = {
+  logo: require("../images/MilkTealogoAGL.png"),
+  logohead: require("../images/MilkTealogoAGL-head.png"),
+  banner1: require("../images/banner1.jpg"),
+  banner2: require("../images/banner2.jpg"),
+  banner3: require("../images/banner3.jpg"),
+  qrmomo: require("../images/qr_momo.jpg"),
+  imgcart: require("../images/img_cart.png"),
+  imghistory: require("../images/img_history.png"),
+  delivery: require("../images/button_delivery.webp"),
+  loading: require("../images/loading.gif"),
+  languageVN: require("../images/vietnam.svg").default,
+  languageUS: require("../images/united-kingdom.svg").default,
+  //   noImage: require("../Images/no-image.png"),
+};
